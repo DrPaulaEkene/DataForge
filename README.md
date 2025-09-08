@@ -1,9 +1,5 @@
 # DataForge
-This project generates a synthetic healthcare dataset of 300 patients visiting Ogbete Hospital (Jan–Jun 2020). Using Python (NumPy, Pandas, Random), it creates realistic records with demographics, income, visit dates, vaccination, and BMI, offering a safe, ethical tool for research, learning, and data practice.
-# Healthcare Dataset Generator
-
-This project generates a **synthetic healthcare dataset** for 300 patients attending a clinic during the COVID-19 pandemic.  
-It is designed for **educational and research practice**, allowing users to work with realistic healthcare data without privacy concerns.
+This project generates a synthetic healthcare dataset of 300 patients visiting Ogbete Hospital (Jan–Jun 2020). Using Python (NumPy, Pandas, Random), it creates realistic records with demographics, income, visit dates, vaccination, and BMI, offering a safe, ethical tool for research, learning, and data practice..
 
 ## Features
 - Generates **300 synthetic patient records**

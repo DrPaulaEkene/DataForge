@@ -23,4 +23,13 @@ This project generates a synthetic healthcare dataset of 300 patients visiting O
 
 Install dependencies with:
 ```bash
-pip install pandas numpy
+pip install pandas
+```
+
+## Why this exists
+
+Real patient data is protected for good reason, so analysts in training often have nothing realistic to practise on. DataForge creates records that look and behave like hospital data but belong to no one. Ogbete Hospital is fictional.
+
+## Run it
+
+Open dataforge_generator.ipynb in Google Colab and run all cells. The output is healthcare_dataset.xlsx.
